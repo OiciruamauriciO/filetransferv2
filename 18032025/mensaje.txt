@@ -1,0 +1,8 @@
+
+
+Buenos días/tardes, informo que las subtareas relacionadas con los RLSE solicitados, capa exposición y KVM; y microservicio trade and capital documents se resume como sigue en las subtareas directrices: RLSE Registro de Proceso > http://pgsthagwj01.cl.corp:8090/browse/J00102-6435 y Curva de aprendizaje y documentación http://pgsthagwj01.cl.corp:8090/browse/J00102-6441.
+
+En tanto de lo solicitado hoy para ampliar el mapeo de deudores en función de las tablas temporales, se revisan los campos y se comparan con la existencia o no existencia de ellos en el SP..., se tiene en resumen: 
+
+Se adjunta los siguientes archivos usados para este proceso:
+
